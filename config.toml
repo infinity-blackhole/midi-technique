@@ -1,0 +1,31 @@
+baseURL = "https://miditechnique.github.com/"
+languageCode = "fr-fr"
+title = "Midi Technique"
+theme = "terminal"
+defaultContentLanguage = "fr"
+
+[params]
+  contentTypeName = "subjects"
+  themeColor = "red"
+  fullWidthTheme = false
+  centerTheme = false
+
+[languages]
+  [languages.fr]
+    languageName = "Français"
+    title = "Midi Technique"
+    subtitle = ""
+    owner = "SFEIR"
+    keywords = "tech"
+    copyright = "SFEIR"
+    menuMore = "Afficher plus"
+    readMore = "En savoir plus"
+    readOtherPosts = "Lire d'autres sujets"
+    newerPosts = "Sujets plus récents"
+    olderPosts = "Sujets plus anciens"
+    missingContentMessage = "Page non trouvée..."
+    missingBackButtonLabel = "Retour à la page principale"
+
+    [languages.fr.params.logo]
+      logoText = "Midi Technique"
+      logoHomeLink = "/"
