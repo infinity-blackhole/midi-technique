@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/header.png" width="250px" height="250px">
+</p>
+
 # Midi Technique
 
 C'est un événement qui a lieu toutes les deux semaines chez SFEIR pour partager
